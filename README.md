@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrejZaicev
 - 👀 I’m interested in many Things
-- 🌱 I’m currently learning Web and Software Debvelopment
+- 🌱 I’m currently learning Web and Software Development
 
 
 <!---
